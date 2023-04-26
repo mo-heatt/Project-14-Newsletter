@@ -13,10 +13,6 @@
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://music-newsletter.herokuapp.com/">here!</a></h2>
-
-<hr>
-
 ## 🤓 Author 
 <table>
   <tr>
